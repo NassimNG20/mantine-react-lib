@@ -2,14 +2,14 @@
 //
 //
 //
-import { DeleteMe } from "@/deleteMe/ng";
+import { DeleteMe } from "@/deleteMe/layout";
 //
 //
 //
 //
 
-function App() {
+const App = () => {
   return <DeleteMe />;
-}
+};
 
 export default App;
