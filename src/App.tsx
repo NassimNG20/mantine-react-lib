@@ -1,5 +1,15 @@
+//
+//
+//
+//
+import { DeleteMe } from "@/deleteMe/ng";
+//
+//
+//
+//
+
 function App() {
-  return <></>;
+  return <DeleteMe />;
 }
 
 export default App;
