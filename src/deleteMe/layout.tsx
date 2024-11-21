@@ -15,7 +15,7 @@ export const DeleteMe = () => {
         color: "white",
       }}
     >
-      NG Mantine React TypeScript LIB
+      NG Mantine Vite React TypeScript LIB
     </div>
   );
 };
